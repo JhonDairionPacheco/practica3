@@ -106,7 +106,7 @@ body{
 }
 .imagen{
     height: 450px;
-    background-image: url(..img/pexels-nemuel-sereti-6424586.jpg);
+    background-image: url(../img/pexels-nemuel-sereti-6424586.jpg);
     margin-bottom: 0;
     position:relative;
     background-position: center;
